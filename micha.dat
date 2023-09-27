@@ -1,0 +1,44 @@
+15
+ing
+tion
+ern
+ive
+ill
+est
+ete
+uter
+nity
+nal
+ical
+ther
+ence
+ance
+age
+Micha has noticed that some letter sequences like ing and tion among many
+other combinations seem to appear frequently in commonly used words Such
+patterns can be used as clues for deciphering encrypted messages However
+trying to find the most common patterns can be a real challenge as she
+visually scans sentences She would like a program that can flawlessly
+complete the task and help her gather data
+Micha will provide the text to be scanned along with a list of suspected common letter
+sequences She would like to get a report showing the number of times specific sequences
+were found in the text To make your task easier all punctuation marks including hyphens
+and special characters have been eliminated and replaced by spaces if needed There could
+be numbers in the text
+In philosophical terms the UIL Computer Science Contest is a competition that challenges
+students to apply programming concepts and skills as well as their knowledge of the designated
+programming language The contest is also an opportunity for students to expand their knowledge
+of computer science beyond the classroom and to foster their interest in the field
+The contest was established in the 1990 91 school year with several goals in mind Among them were
+the goals of further strengthening the UIL math and science program with a new technological
+component and to support Texas public schools in meeting the growing demand for computer
+education
+The UIL contest was modeled in many ways on the College Boards Advanced Placement curriculum for
+computer science and the foundations of the contest can still be found there For the first
+eight years of its existence Pascal was the designated programming language for the contest
+Beginning with the 1998 99 school year the AP curriculum moved to c plus plus and UIL Computer Science
+did likewise Finally beginning in the 2003 04 school year the contest moved from c plus plus to Java
+This keeps UIL Computer Science in line not only with the AP curriculum but also with trends in
+collegiate computer science curricula and the professional programming community
+Java is the designated programming language for UIL Computer Science
+The above 16 lines were copied from UIL Academics and Computer Science Web pages
