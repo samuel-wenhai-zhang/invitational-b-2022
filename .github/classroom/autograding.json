@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Anastasia",
+      "setup": "javac Anastasia.java",
+      "run": "java Anastasia",
+      "input": "",
+      "output": "The square root of 400 is 20.\r\nThe square root of 361 is 19.\r\nThe square root of 324 is 18.\r\nThe square root of 289 is 17.\r\nThe square root of 256 is 16.\r\nThe square root of 225 is 15.\r\nThe square root of 196 is 14.\r\nThe square root of 169 is 13.\r\nThe square root of 144 is 12.\r\nThe square root of 121 is 11.\r\nThe square root of 100 is 10.\r\nThe square root of 81 is 9.\r\nThe square root of 64 is 8.\r\nThe square root of 49 is 7.\r\nThe square root of 36 is 6.\r\nThe square root of 25 is 5.\r\nThe square root of 16 is 4.\r\nThe square root of 9 is 3.\r\nThe square root of 4 is 2.\r\nThe square root of 1 is 1.\r\nThe square root of 0 is 0.\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Carolyn",
+      "setup": "javac Carolyn.java",
+      "run": "java Carolyn",
+      "input": "",
+      "output": "A\r\nBB\r\nCCC\r\nDDDD\r\nH\r\nP\r\nOO\r\nNNN\r\nMMMM\r\nLLLLL\r\nJ\r\nKK\r\nLLL\r\nMMMM\r\nNNNNN\r\nOOOOOO\r\nPPPPPPP\r\nQQQQQQQQ\r\nRRRRRRRRR\r\nSSSSSSSSSS\r\nD\r\nCC\r\nBBB\r\nAAAA\r\nX\r\nYY\r\nZZZ\r\nJ\r\nII\r\nHHH\r\nGGGG\r\nFFFFF\r\nEEEEEE\r\nZ\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Diana",
+      "setup": "javac Diana.java",
+      "run": "java Diana",
+      "input": "",
+      "output": "89169.09\r\n11226.46\r\n50154.42\r\n78922.17\r\n24879.24\r\n33233.24\r\n51286.87\r\n58940.10\r\n81169.55\r\n88115.78\r\n78009.88\r\n65315.18\r\n42151.97\r\n126116.18\r\n98981.45\r\n55888.66\r\n37918.05\r\n89990.25\r\n28690.44\r\n69883.05\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ewa",
+      "setup": "javac Ewa.java",
+      "run": "java Ewa",
+      "input": "",
+      "output": "258.33\r\n----------\r\n319.75\r\n351.96\r\n----------\r\n85.56\r\n63.57\r\n186.74\r\n274.69\r\n246.03\r\n150.66\r\n25.72\r\n9.18\r\n----------\r\n1.11\r\n0.08\r\n40.37\r\n41.68\r\n82.95\r\n----------\r\n22.66\r\n40.84\r\n----------\r\n62.45\r\n23.41\r\n112.49\r\n113.44\r\n52.07\r\n100.42\r\n10.04\r\n----------\r\n22.81\r\n75.83\r\n----------\r\n188.68\r\n286.04\r\n187.95\r\n190.85\r\n199.34\r\n47.24\r\n----------\r\n6.90\r\n3.48\r\n11.39\r\n105.82\r\n16.35\r\n141.73\r\n138.38\r\n76.36\r\n46.80\r\n50.42\r\n----------\r\n108.46\r\n130.41\r\n211.23\r\n6.62\r\n2.50\r\n39.27\r\n61.66\r\n184.15\r\n206.38\r\n0.67\r\n----------\r\n101.27\r\n63.39\r\n50.00\r\n3.41\r\n55.28\r\n25.83\r\n----------\r\n0.77\r\n154.98\r\n338.49\r\n364.98\r\n627.03\r\n627.69\r\n629.98\r\n796.63\r\n1077.68\r\n1084.41\r\n----------\r\n3.95\r\n82.58\r\n----------\r\n46.50\r\n75.05\r\n72.80\r\n80.93\r\n62.04\r\n221.71\r\n64.22\r\n----------\r\n9.83\r\n----------\r\n206.29\r\n167.44\r\n160.14\r\n37.37\r\n17.51\r\n18.00\r\n0.78\r\n0.66\r\n20.73\r\n----------\r\n33.83\r\n71.42\r\n----------\r\n113.31\r\n70.71\r\n109.70\r\n107.03\r\n----------\r\n31.36\r\n10.11\r\n0.88\r\n0.53\r\n0.26\r\n0.12\r\n21.89\r\n----------\r\n11.50\r\n11.54\r\n10.75\r\n11.58\r\n24.51\r\n85.26\r\n----------\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Harry",
+      "setup": "javac Harry.java",
+      "run": "java Harry",
+      "input": "",
+      "output": "ILIKEEGGS\r\nRUNFORRESTRUN\r\nSUPERSTAR\r\nBEKIND\r\nHOORAY\r\nALL LETTERS ARE GONE\r\nHISNOOPY\r\nL\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ishita",
+      "setup": "javac Ishita.java",
+      "run": "java Ishita",
+      "input": "",
+      "output": "3\r\n0\r\n7\r\n16383\r\n0\r\n0\r\n0\r\n0\r\n0\r\n0\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Manoj",
+      "setup": "javac Manoj.java",
+      "run": "java Manoj",
+      "input": "",
+      "output": "20 degrees M = 40 degrees C\r\n145 degrees M = 122 degrees F\r\n171 degrees F = 171 degrees M\r\n77 degrees F = 40 degrees M\r\n80 degrees C = 8 degrees M\r\n95 degrees C = 203 degrees F\r\n5 degrees C = 41 degrees F\r\n-40 degrees F = -40 degrees C\r\n-10 degrees M = -20 degrees C\r\n50 degrees F = 209 degrees M\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Micha",
+      "setup": "javac Micha.java",
+      "run": "java Micha",
+      "input": "",
+      "output": "\"ing\" 15\r\n\"tion\" 6\r\n\"ern\" 2\r\n\"ive\" 0\r\n\"ill\" 3\r\n\"est\" 9\r\n\"ete\" 1\r\n\"uter\" 9\r\n\"nity\" 2\r\n\"nal\" 2\r\n\"ical\" 2\r\n\"ther\" 5\r\n\"ence\" 14\r\n\"ance\" 1\r\n\"age\" 5\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pamela",
+      "setup": "javac Pamela.java",
+      "run": "java Pamela",
+      "input": "",
+      "output": "Case: 1\r\nRow Sums:   2237   2578   2212   2125   1134\r\nRow Mins:    160    155    311    128    167\r\nCol Sums:   2604   2375   3211   2096\r\nCol Maxs:    890    918    962    903\r\nMin Mins:    128\r\nMax Maxs:    962\r\n====================\r\nCase: 2\r\nRow Sums:   4487   5872   3094   3976   5412   6118   3912\r\nRow Mins:    234    182     10     10    174    402     62\r\nCol Sums:   3852   3226   4909   3824   3974   2639   4094   2909   3444\r\nCol Maxs:    984    608    961    925    958    760    932    688    950\r\nMin Mins:     10\r\nMax Maxs:    984\r\n====================\r\nCase: 3\r\nRow Sums:   1764    752\r\nRow Mins:    814     74\r\nCol Sums:   1492   1024\r\nCol Maxs:    814    950\r\nMin Mins:     74\r\nMax Maxs:    950\r\n====================\r\nCase: 4\r\nRow Sums:   1954   1554   1142\r\nRow Mins:    178     43     27\r\nCol Sums:    798   2746   1106\r\nCol Maxs:    593    989    937\r\nMin Mins:     27\r\nMax Maxs:    989\r\n====================\r\nCase: 5\r\nRow Sums:    644    595   1491   1078    985    810    384   1225   1010\r\nRow Mins:    157     73    717    297     17    305     86    363    131\r\nCol Sums:   4192   4030\r\nCol Maxs:    879    968\r\nMin Mins:     17\r\nMax Maxs:    968\r\n====================\r\nCase: 6\r\nRow Sums:   3861   4418\r\nRow Mins:     15      9\r\nCol Sums:   1402    506   1807    458    586    652    514   1843    511\r\nCol Maxs:    891    497    936    383    346    637    431    997    264\r\nMin Mins:      9\r\nMax Maxs:    997\r\n====================\r\nCase: 7\r\nRow Sums:   4796   5516   5581   4202   4313   6035   5540   4837   4066   4558\r\nRow Mins:     79     90    275    149      2    102      0    139     75     26\r\nCol Sums:   3781   4915   6112   4995   5879   5189   3647   3980   5147   5799\r\nCol Maxs:    662    996    895    995    996    998    965    586    950   1000\r\nMin Mins:      0\r\nMax Maxs:   1000\r\n====================\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rhea",
+      "setup": "javac Rhea.java",
+      "run": "java Rhea",
+      "input": "",
+      "output": "yes\r\nyes\r\nno\r\nyes\r\nno\r\nno\r\nyes\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Shekhar",
+      "setup": "javac Shekhar.java",
+      "run": "java Shekhar",
+      "input": "",
+      "output": "() is nested correctly\r\n{} is nested correctly\r\n[] is nested correctly\r\n( is nested incorrectly\r\n{ is nested incorrectly\r\n[ is nested incorrectly\r\n{([([{([[{a}]])}])])} is nested correctly\r\n}{ is nested incorrectly\r\n][ is nested incorrectly\r\n(a+b)*{a-b}-[a-b] is nested correctly\r\n({[]}) is nested correctly\r\n(((((((((]))))))))) is nested incorrectly\r\n{{{{{{{{{{}}}}}}}}}} is nested correctly\r\n[[[[[[[[[[[]]]]]]]]]]] is nested correctly\r\n][[[[[[[[[[[[]]]]]]]]]]]] is nested incorrectly\r\n}{{{{{{}}}}}} is nested incorrectly\r\n{{{{}}} is nested incorrectly\r\n(((((((())))))))) is nested incorrectly\r\na+b*d is nested correctly\r\n(a+b{x+x}*{(2+3)*[a]}) is nested correctly\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Tomas",
+      "setup": "javac Tomas.java",
+      "run": "java Tomas",
+      "input": "",
+      "output": "ABCDEFGHIJKLMNOPQRSTUVWXYZ\r\nAND SO MY FELLOW AMERICANS ASK NOT WHAT YOUR COUNTRY CAN DO FOR YOU ASK WHAT YOU CAN DO FOR YOUR COUNTRY\r\nWE CAN NOT HELP EVERYONE BUT EVERYONE CAN HELP SOMEONE\r\nBE THE CHANGE YOU WANT TO SEE IN THE WORLD\r\nWE THE PEOPLE OF THE UNITED STATES IN ORDER TO FORM A MORE PERFECT UNION ESTABLISH JUSTICE INSURE DOMESTIC TRANQUILITY PROVIDE FOR THE COMMON DEFENSE PROMOTE THE GENERAL WELFARE AND SECURE THE BLESSINGS OF LIBERTY TO OURSELVES AND OUR POSTERITY DO ORDAIN AND ESTABLISH THIS CONSTITUTION FOR THE UNITED STATES OF AMERICA\r\nHONOR THE TEXAS FLAG I PLEDGE ALLEGIANCE TO THEE TEXAS ONE STATE UNDER GOD ONE AND INDIVISIBLE\r\nHULLABALOO CANECK CANECK HULLABALOO CANECK CANECK\r\nAMARILLO BY MORNIN UP FROM SAN ANTONE EVERYTHING THAT I GOT IS JUST WHAT IVE GOT ON WHEN THAT SUN IS HIGH IN THAT TEXAS SKY ILL BE BUCKIN AT THE COUNTY FAIR AMARILLO BY MORNIN AMARILLO ILL BE THERE\r\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
